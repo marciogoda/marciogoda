@@ -15,24 +15,7 @@ I'm a dedicated software engineer specializing in automation and platform engine
 - Databases: SQL, MongoDB
 - Other: Git, Jenkins, Terraform
 
-## Projects
-
-### Project 1: [Project Name]
-
-Description: [Brief description of the project]
-
-Technologies Used: [List of technologies used]
-
-GitHub Repository: [Link to GitHub repository]
-
-### Project 2: [Project Name]
-
-Description: [Brief description of the project]
-
-Technologies Used: [List of technologies used]
-
-GitHub Repository: [Link to GitHub repository]
 
 ## Contact Me
 
-Feel free to reach out to me via email at [email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/marciogoda/). Let's collaborate and build something amazing together!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marciogoda/). Let's collaborate and build something amazing together!
