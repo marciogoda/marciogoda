@@ -9,11 +9,16 @@ I'm a dedicated software engineer specializing in automation and platform engine
 ## Skills
 
 - Programming Languages: Python, Go
+- IAC: Terraform
 - Automation: Ansible, Puppet
 - Platform Engineering: Docker, Kubernetes
 - Cloud Technologies: AWS, Azure
 - Databases: SQL, MongoDB
-- Other: Git, Jenkins, Terraform
+- Other: Git, Jenkins
+
+##
+Open Source Contribution
+- cdflow2 [Github](https://github.com/mergermarket/cdflow2)
 
 
 ## Contact Me
